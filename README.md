@@ -40,7 +40,7 @@ http://ec2-54-202-168-249.us-west-2.compute.amazonaws.com:9090/auth
 
 Comparto los pasos de una forma mas detallada
 
-[Documentation](https://drive.google.com/file/d/1rQVLtjbqR5QF8gpBeF6qKbyua73rhrKG/view?usp=sharing)
+[Documentation](https://drive.google.com/file/d/1EXHVwrH1G5VwNt9ADaH2EGmV_HId5350/view?usp=sharing)
 
   
 ## Authors
