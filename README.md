@@ -19,7 +19,7 @@ Este servicio REST creado en Spring Boot requiere de los siguientes acciones ant
 
 Comparto los pasos de una forma mas detallada
 
-[Documentation](https://drive.google.com/drive/folders/1lZyfylYPvcVxOSOlw9esUcuMQZ9OZq8D?usp=sharing)
+[Documentation](https://drive.google.com/file/d/1rQVLtjbqR5QF8gpBeF6qKbyua73rhrKG/view?usp=sharing)
 
   
 ## Authors
