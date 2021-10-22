@@ -15,6 +15,27 @@ Este servicio REST creado en Spring Boot requiere de los siguientes acciones ant
   Instalar y configurar contenedor KeyCloak
 ```
     
+## Solicitud de tocken de autorizacion
+
+http://ec2-54-202-168-249.us-west-2.compute.amazonaws.com:9090/auth/realms/authrealm/protocol/openid-connect/token
+- grant_type = password
+- client_id = vacunemp
+- client_secret = 87907841-489a-45f7-97dd-45f792568eac
+- username = administrator
+- password = password
+
+## Consola de administracion phpMyAdmin
+
+http://ec2-54-202-168-249.us-west-2.compute.amazonaws.com:8080
+- server = 172.17.0.2
+- username = user02
+- password = user02
+
+## Consola de administracion keyCloak
+
+http://ec2-54-202-168-249.us-west-2.compute.amazonaws.com:9090/auth 
+- username = admin
+- password = admin
 ## Documentation
 
 Comparto los pasos de una forma mas detallada
@@ -72,5 +93,10 @@ Comparto los pasos de una forma mas detallada
 ## Feedback
 
 If you have any feedback, please reach out to us at christian.merchan@gmail.com
+
+  
+## Support
+
+For support, email fake@fake.com or join our Slack channel.
 
   
